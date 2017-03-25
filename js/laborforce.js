@@ -1,4 +1,11 @@
 (function () {
+
+var contentWidth = document.getElementById('content').clientWidth;
+
+var plotWidth;
+  if (contentWidth >= 500) {plotWidth = 250;} 
+  else { plotWidth = contentWidth }
+
   var elem = document.getElementById('stateSelect'); // Create variable element that stores value from menu 
   if(elem){ elem.addEventListener("load", graphState(elem.value), false)}; // on load, graph default value 
   if(elem){ elem.addEventListener("change", onSelectChange, false)}; // on change, run 'onSelectChange function' that graphs new country 
@@ -10,7 +17,7 @@
   }
 
   var margin = {top: 20, right: 20, bottom: 20, left: 40},
-      width = 250 - margin.left - margin.right,
+      width = plotWidth - margin.left - margin.right,
       height = 180 - margin.top - margin.bottom;
 
   var x = d3.scaleLinear()
