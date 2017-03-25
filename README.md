@@ -1,4 +1,4 @@
-# State-level employment
+# Employment patterns by state
 
 Web version: https://nikostsafos.github.io/stateEmployment/
 
@@ -16,7 +16,7 @@ Data on labor force participation from Bureau of Labor Statistics, Local Area Un
 - https://www.bls.gov/lau
 - https://www.bls.gov/lau/staadata.txt
 
-### In this repository.
+### In this repository
 
 **css**: CSS style for the page. 
 
