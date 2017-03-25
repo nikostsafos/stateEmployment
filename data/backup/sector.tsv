@@ -1,0 +1,23 @@
+supersector_code	supersector_name
+00	Total Nonfarm	
+05	Total Private	
+06	Goods Producing	
+07	Service-Providing	
+08	Private Service Providing	
+10	Mining & Logging	
+15	Mining, Logging, & Construction	
+20	Construction	
+30	Manufacturing	
+31	Durable Goods	
+32	Non-Durable Goods	
+40	Trade, Transportation, & Utilities	
+41	Wholesale Trade	
+42	Retail Trade	
+43	Transportation & Utilities	
+50	Information	
+55	Financial Activities	
+60	Prof. & Business Services	
+65	Educ. & Health Services	
+70	Leisure & Hospitality	
+80	Other Services	
+90	Government	
