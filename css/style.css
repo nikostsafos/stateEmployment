@@ -119,7 +119,7 @@ text {
 
 @media only screen and (max-width: 500px) {
 
-  nav { display: none; }
+  /*nav { display: none; }*/
 
   #content {
     width: 94%;
