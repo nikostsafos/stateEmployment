@@ -1,5 +1,7 @@
 # State-level employment
 
+Web version: https://nikostsafos.github.io/stateEmployment/
+
 This repository maps two kind of data series:
 
 **Annual employment by sector from 1990 to 2016.** Data are shown as a percent of total non-farm employment.
@@ -14,9 +16,7 @@ Data on labor force participation from Bureau of Labor Statistics, Local Area Un
 - https://www.bls.gov/lau
 - https://www.bls.gov/lau/staadata.txt
 
-Web version: 
-
-## In this repository.
+### In this repository.
 
 **css**: CSS style for the page. 
 
